@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="dock_pack" translatable="false">
+    	<item>black_dock_1</item>
+    	<item>black_dock_2</item>
     </string-array>
 </resources>
